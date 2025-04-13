@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://onkarholportfolio.netlify.app/](https://onkarholportfolio.netlify.app/)
 
-- 💬 Ask me about **Hi there! I'm Onkar Uttam Hol, a passionate Java Backend Developer from India. I specialize in building scalable and efficient backend systems using Java, Spring Boot, and Microservices, while also having hands-on experience with React for frontend development. With a strong foundation in Data Structures & Algorithms (DSA), I enjoy solving complex problems and optimizing system performance. I have also worked with databases like MySQL and MongoDB, ensuring efficient data management.**
+- 💬**Hi there! I'm Onkar Uttam Hol, a passionate Java Backend Developer from India. I specialize in building scalable and efficient backend systems using Java, Spring Boot, and Microservices, while also having hands-on experience with React for frontend development. With a strong foundation in Data Structures & Algorithms (DSA), I enjoy solving complex problems and optimizing system performance. I have also worked with databases like MySQL and MongoDB, ensuring efficient data management.**
 
 - 📫 How to reach me **onkarhol555@gmail.com**
 
