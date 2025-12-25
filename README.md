@@ -1,4 +1,5 @@
-[<img width="980" height="423" alt="Gemini_Generated_Image_9iyrio9iyrio9iyr" src="https://github.com/user-attachments/assets/5728464c-ff71-4b5e-ae58-74754283814e" />](https://github.com/onkarhol999)
+[![fotor-2025122515053](https://github.com/user-attachments/assets/1e1aec83-7b0e-479a-ac06-740dd2f73991)](https://github.com/onkarhol999)
+
 
 <h1 align="center">Hi 👋, I'm Onkar Uttam Hol</h1>
 <h3 align="center">Passionate SAP ABAP & UI5 Developer with Java backend expertise, experienced in building enterprise-grade applications using OData, SAP BTP, Fiori, and scalable Java services.</h3>
